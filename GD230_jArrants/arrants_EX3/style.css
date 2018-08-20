@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+html { 
+	font-size: 16px;	
+}
+
+p {
+	font-family: 'Quattrocento', Georgia, "Times New Roman", serif;
+	font-weight: 400;
+	line-height: 1.4em;
+}
+
+h1, h2 {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+h1 {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 4.768em;
+	margin: 0;
+}
+
+h2 {
+	font-weight: 500;
+	font-size: 2.441em;
+	margin: 0;
+	
+}
+
+h3 {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: 500;
+}
+
+ol {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: 300;
+	border: 1px solid #FF0004;
+	border-radius: 15px;
+	padding: 10px;
+	list-style-position: inside;	
+}
+
+ul {
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	font-weight: 300;
+	border: 1px dashed #FF0004;
+	border-radius: 15px;
+	padding: 10px;
+	list-style-type: none;
+	
+}
+
+p.intro:first-line {
+	font-weight: bold;
+}
+
+address {
+	font-family:  'Quattrocento', Georgia, "Times New Roman", serif;
+	font-size: .8em;
+}
+
+a:link {
+	color: blue;
+	font-family: 'Oswald', Verdana, Arial, sans-serif;
+	text-decoration: none;
+}
+
+a:visited {
+	color: burlywood;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.sentence {
+	font-size: 20px;
+}
+
